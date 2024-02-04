@@ -5,4 +5,4 @@ Vektörel Bilişim Python Programlama Final Projesi
 <h3> Proje anasayfa:</h3>
 <img src="https://github.com/dilayre/vektorelWebProject/blob/main/anasayfa.jpg">
 <h3> Listeleme İşlemi:</h3>
-<img src="https://github.com/dilayre/PythonProject2/blob/main/proje-2(vektorel)/images/list_2.jpg">
+<img src="https://github.com/dilayre/vektorelWebProject/blob/main/kitaplar.jpg">
